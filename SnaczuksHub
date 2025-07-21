@@ -3,4 +3,4 @@ Reminder this doesn't work in private servers and also in order for the script t
 Raccoons,DragonFlys,Red Foxes,Polar Bears,T-rex, Chicken Zombies,Pandas,And Queen bees
 
 script:
-loadstring(game:HttpGet("https://raw.githubusercontent.com/snaczukss/s/refs/heads/main/gagpetspawn.lua"))()
+loadstring(game:HttpGet("https://pastefy.app/wVL9pUJx/raw"))()
